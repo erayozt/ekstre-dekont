@@ -1,0 +1,10 @@
+@media print {
+  .page-break {
+    page-break-before: always;
+  }
+}
+
+/* PDF içeriği için genel stiller */
+.print-container {
+  font-family: 'Arial', sans-serif;
+} 
