@@ -1,6 +1,6 @@
 #  Üye İşyeri Yönetim Paneli
 
- Üye İşyeri Yönetim Paneli, işyerlerinin finansal işlemlerini, ödemelerini ve hakediş durumlarını yönetebilecekleri kapsamlı bir web uygulamasıdır. Panel, modern bir tasarım ve kullanıcı dostu bir arayüz ile üye işyerlerine geniş bir finansal yönetim yeteneği sunmaktadır.
+ Üye İşyeri Yönetim Paneli, işyerlerinin finansal işlemlerini, ödemelerini ve hakediş durumlarını yönetebilecekleri kapsamlı bir web uygulamasıdır. Panel, modern bir tasarım ve kullanıcı dostu bir arayüz ile üye işyerlerine geniş bir finansal yönetim yeteneği sunmaktadır. Live preview: https://majestic-valkyrie-868db7.netlify.app
 
 ## Genel Bakış
 
